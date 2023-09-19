@@ -1,0 +1,13 @@
+name: SMP-Enhancer
+version: '${project.version}'
+main: me.notloxik.smpenhancer.SMP_Enhancer
+api-version: 1.20
+description: SMP Enhancer Plugin is your ticket to supercharging your Minecraft SMP server. With features like TPA, Homes, and more, it transforms ordinary SMP worlds into extraordinary ones. Elevate your server today for a richer and more engaging multiplayer experience.
+
+commands:
+  sit:
+    description: Makes player sit
+  tpaccept:
+    description: Accept tpa request
+  tpa:
+    description: Send tpa request
